@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("Hello Github");
 		System.out.println("Update for Github");//不要乱码....
 		System.out.println("Update for Github");//在服务器二次更新
+		System.out.println("你好");
 	}
 }
